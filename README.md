@@ -8,7 +8,7 @@ A collection of machine learning and AI projects built during my Post Graduate P
 
 | Project | Description | Skills & Tools | Notebook |
 |---|---|---|---|
-| **Medical Assistant** | RAG-based AI solution using medical manuals to support healthcare decision-making — reduces information overload and improves diagnostic support. | Chunking, Embeddings, Retriever, LLM, Prompt Engineering, Fine-tuning, RAG | [medical_assitant.ipynb](./medical_assitant.ipynb) |
+| **Medical Assistant** | RAG-based AI solution using medical manuals to support healthcare decision-making — reduces information overload and improves diagnostic support. | Chunking, Embeddings, Retriever, LLM, Prompt Engineering, Fine-tuning, RAG | [medical_assistant.ipynb](./medical_assistant.ipynb) |
 | **ReneWind** | Classification models predicting wind turbine generator failures from sensor data, enabling proactive maintenance and reduced downtime costs. | EDA, Data Preprocessing, Neural Networks, Classification, Activation Functions | [Renewind.ipynb](./Renewind.ipynb) |
 | **EasyVisa** | Predictive model for visa application outcomes, identifying key factors influencing approval to recommend applicant profiles. | EDA, Data Preprocessing, Customer Profiling, Bagging & Boosting | [Easyvisa.ipynb](./Easyvisa.ipynb) |
 | **Personal Loan Campaign** | Predicts which bank customers are likely to purchase a personal loan, identifying key attributes to improve marketing targeting. | NumPy, Pandas, Sklearn, EDA, Linear Regression, Decision Tree, Clustering, Classification | [Personal_Loan_Campaign_Prediction.ipynb](./Personal_Loan_Campaign_Prediction.ipynb) |
